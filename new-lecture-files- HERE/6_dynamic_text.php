@@ -8,16 +8,15 @@
  
  <?php 
 
-$title = "Edwin Diaz's Site";
+$title = "Kevin Castro's Site";
+$country = 'Mexico'
     
 ?>
-  
-  
 
   
  <h1><?php echo $title; ?></h1>  
-   
-   
+ <h2><?php echo $country; ?></h2>
+      
    
     
 </body>
