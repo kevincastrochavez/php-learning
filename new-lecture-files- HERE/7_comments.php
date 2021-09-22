@@ -8,11 +8,12 @@
  
 <?php 
 
-/* This function below displays text
+/* This function below displays text and
 
 this is multiline comment */
 
 // One line comment
+// Like Python comments
     
 echo "Hello Student";  
     
