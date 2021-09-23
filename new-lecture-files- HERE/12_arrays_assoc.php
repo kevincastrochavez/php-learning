@@ -8,19 +8,19 @@
 
 <?php 
 
-$number = array('juanita', 'maria', 'jose');
+$number = ['cindy', 'jared', 'alicia'];
 
-//print_r($number);
+// print_r($number);
 
-echo $number[0] . "<br>";
-echo "<br>";  
+// echo $number[0] . "<br>";
+// echo "<br>";  
 
 
 // Associative Array Below
 
-$names = array("first_name" => 'Edwin', "Last_Name" => 'Diaz' );
+$names = ["first_name" => 'Kevin', "Last_Name" => 'Castro'];
 
-//print_r($names);
+// print_r($names);
 
 echo $names['first_name'] . " " . $names['Last_Name'];
     
