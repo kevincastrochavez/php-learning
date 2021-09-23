@@ -7,16 +7,14 @@
 <body>
 <?php 
     
-$name = 'Edwin';
-$number = 100;
-$Number_List = 100.5;
-//$num-ber= 400;
-//$0number = 500;
-$NUMBER = 100;
-$NUMBeR = 100;
-echo $name . " " . $NUMBeR;
+$name = 'Kevin';
+$lastName = 'Castro';
+$number = 54;
+$Number_List = 4030.5;
 
-$name = "<h1> HELLO</h1>";
+echo $name . " " . $lastName;
+
+$name = "<h1>HELLO WORLD</h1>";
 
 echo $name;
 
