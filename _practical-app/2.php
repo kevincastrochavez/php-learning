@@ -28,6 +28,14 @@
 		 
 			 */
 
+		$number1 = 10;
+		$number2 = 20;
+
+		echo $number1 + $number2;
+
+		$firstArray = ['one', 'two', 'three'];
+		$secondArray = ['firstNumber' => 'one', 'secondNumber' => 'two', 'thirdNumber' => 'three'];
+
 		
 
 
