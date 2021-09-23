@@ -7,11 +7,12 @@
 <body>
 <?php 
 
-$numberList = array(267,8765,345,'5345', 345, '<h1>Hello</h1>');
-
-//print_r($numberList);
+$numberList = [267,8765,345,'5345', 345, '<h1>Hello</h1>'];
 
  echo $numberList[5];
+ echo $numberList[1];
+ echo '<br>';
+ echo $numberList[2];
     
     
 ?>
