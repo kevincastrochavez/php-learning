@@ -13,7 +13,8 @@
       
       equal ==
       identical ===
-      compare > <  >= <= <>
+      compare > <  >= <= 
+      less than or greater than <>
       not equal !=
       not identical !==
       
@@ -35,21 +36,21 @@
    
 if(4 === 4 && 5 < 10 ) {
 
-    echo "it is true <br>";
+    echo "It is true <br>";
 
 }
 
 
 if(4 !== 4 || 5 < 10 ) {
 
-    echo "it is true<br>";
+    echo "It is true<br>";
 
 }
 
 
 if(4 <> 5) {
 
-    echo "it is true";
+    echo "It is true";
 
 }
 
