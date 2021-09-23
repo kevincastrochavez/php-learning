@@ -8,19 +8,19 @@
 
 <?php 
 
-if(3 > 10){
+if(5 > 40){
 
-echo "three is less than ten";
+    echo "Five is less than forty";
 
 } elseif( 4 > 5) {
 
-echo "of course four is less than five";
+echo "You are going crazy";
 
 }
 
 else {
 
-echo "it is not";
+    echo "It is not";
 
 }
 
